@@ -11,6 +11,5 @@ out = linearSearchTwoDArray(arr,91)
 if out == False:
       print('element not found in the array')
 else:
-      print('element  found in the array')
-      
+      print('element  found in the array')   
       
